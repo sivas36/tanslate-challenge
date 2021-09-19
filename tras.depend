@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1632049837 source:c:\users\siva\downloads\translatewords challenge\tras\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1632057401 source:c:\users\siva\downloads\translatewords challenge\tras\tras\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
